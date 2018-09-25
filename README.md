@@ -1,6 +1,6 @@
-== README
+# photo-app
 
-Phot0 application
+Photo application
 
 * Ruby version
   2.4.4
